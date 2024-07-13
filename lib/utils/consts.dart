@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const String geminiApiKey = 'AIzaSyD3ImRlsmZD2_UC_J2k0ZL6o2SLpchTnmo';
+const String geminiApiKey = 'YOR API KEY HERE';
 
 const Color scaffoldBackgroundColor = Color(0xFF0c0c1f);
 
