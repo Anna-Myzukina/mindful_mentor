@@ -1,0 +1,32 @@
+{
+    "welcome": [
+      {
+        "welcome": "Welcome to the calm corner! 💗",
+        "message": "Take a deep breath and unwind. I'm Neo, your friendly chat companion, here to help you find your inner peace."
+      },
+      {
+        "welcome": "Shhh... Welcome 💗 to the calm corner!",
+        "message": "Let's leave the noise behind and focus on some well-deserved relaxation. I'm Neo, your quiet companion, ready to listen."
+      },
+      {
+        "welcome": "Welcome to the calm corner! 💗",
+        "message": "Feeling overwhelmed? Neo here, ready to be your calming oasis. Let's chat and de-stress together."
+      },
+      {
+        "welcome": "Welcome to the calm corner! 💗",
+        "message": "Escape the daily grind and find your zen. I'm Neo, your chat companion for mindfulness. What would you like to focus on today?"
+      },
+      {
+        "welcome": "Welcome to the calm corner! ☕️",
+        "message": "Let's brew a cup of serenity! I'm Neo, your friendly chat companion. Ready to unwind and explore some calming techniques?"
+      },
+      {
+        "welcome": "Welcome back, my dear friend! 💗",
+        "message": "Your calming corner awaits. Neo here, ready to listen and support."
+      },
+      {
+        "welcome": "Hi there! 💗",
+        "message": "Feeling stressed? Neo's here to offer a listening ear or calming techniques. Let's create a moment of peace."
+      }
+    ]
+  }
